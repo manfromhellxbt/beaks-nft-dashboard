@@ -10,11 +10,16 @@ This repository contains the verified post-mint sales, transfers, and wallet dis
 
 ## 📈 Audited Minter Activity & Supply Breakdown
 
-Since almost all wallets minted exactly 1 NFT, the wallet behavior and token distribution are highly aligned:
+Through smart contract ownership audits, we verified the exact distribution of the collection's supply:
+*   **Community Mints**: **1,081 unique wallets** minted exactly **1 NFT** each.
+*   **Developer Reserve**: **1 developer wallet** (the verified contract owner: `0x44b8b8e5ca0c8f16eef957a744b9c5c8b899e402`) minted exactly **30 NFTs** (Tokens `#1` to `#30`) as a reserve.
+*   **Developer Status**: The developer wallet is currently **holding all 30 of its reserved NFTs** (0.0% sold/transferred).
 
-*   **Sold**: **407 NFTs** (representing 407 unique wallets) — **37.6%** of minters.
-*   **Transferred**: **161 NFTs** (representing 161 unique wallets) — **14.9%** of minters.
-*   **Still Holding**: **543 NFTs** (held by 514 unique wallets) — **47.5%** of minters.
+### Consolidated Activity & Distribution Summary:
+*   **Sold**: **407 NFTs** (representing 407 unique community wallets) — **37.6%** of minters.
+*   **Transferred**: **161 NFTs** (representing 161 unique community wallets) — **14.9%** of minters.
+*   **Still Holding (Community)**: **513 NFTs** (held by 513 unique community wallets) — **47.4%** of minters.
+*   **Still Holding (Developer)**: **30 NFTs** (held by the 1 contract owner wallet) — **0.1%** of minters.
 *   **Total Collection Stats**: **1,111 NFTs** minted by **1,082 unique wallets**.
 *   **Total Verified Sales Volume**: **66.41 ETH/WETH**
 
