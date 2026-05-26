@@ -8,19 +8,14 @@ This repository contains the verified post-mint sales, transfers, and wallet dis
 
 ---
 
-## 📈 Audited Wallet & Supply Metrics
+## 📈 Audited Minter Activity & Supply Breakdown
 
-### Minter Wallet Behavior (1,082 Unique Wallets)
-*   **Sold**: **407 Wallets** (37.6%) — Minters who sold at least one NFT on a marketplace.
-*   **Transferred**: **161 Wallets** (14.9%) — Minters who transferred their NFT (no sale).
-*   **Still Holding (Never Moved)**: **514 Wallets** (47.5%) — Minters who never moved any minted NFTs.
-*   **Total Unique Minters**: **1,082 Wallets** (100.0%)
+Since almost all wallets minted exactly 1 NFT, the wallet behavior and token distribution are highly aligned:
 
-### NFT Supply Distribution (1,111 NFTs)
-*   **Sold Tokens**: **407 Tokens** (36.6%) — NFTs sold by their minters on a marketplace.
-*   **Transferred Tokens**: **161 Tokens** (14.5%) — NFTs transferred by their minters (no sale).
-*   **Still Holding Tokens**: **543 Tokens** (48.9%) — NFTs still held in the minter's wallet.
-*   **Total Supply**: **1,111 Tokens** (100.0%)
+*   **Sold**: **407 NFTs** (representing 407 unique wallets) — **37.6%** of minters.
+*   **Transferred**: **161 NFTs** (representing 161 unique wallets) — **14.9%** of minters.
+*   **Still Holding**: **543 NFTs** (held by 514 unique wallets) — **47.5%** of minters.
+*   **Total Collection Stats**: **1,111 NFTs** minted by **1,082 unique wallets**.
 *   **Total Verified Sales Volume**: **66.41 ETH/WETH**
 
 ---
