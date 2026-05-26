@@ -2,7 +2,9 @@
 
 This repository contains the verified post-mint sales, transfers, and wallet distribution data for **The Beaks** NFT collection on Ethereum. It features a standalone, interactive, glassmorphic web dashboard allowing real-time search, sorting, and classification audits.
 
-👉 **Live Dashboard Demo**: [Open index.html](./index.html)
+> **Data Snapshot**: May 26, 2026, 19:30 UTC
+
+👉 **Live Dashboard Demo**: [manfromhellxbt.github.io/beaks-nft-dashboard](https://manfromhellxbt.github.io/beaks-nft-dashboard/)
 
 ---
 
