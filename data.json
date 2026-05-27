@@ -242,10 +242,10 @@
   {
     "token_id": 31,
     "minter": "0x67819066e5231745fba1e6d48138e53164e887eb",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1371,
+    "recipient": "0x37c1ee49fed07529d83f324e41962d07fc3cd7a7",
+    "tx_hash": "0x7f02fcd49fcf2259716c3f2260d37b4efca8366b6fd7b8e500d687b7d40f108c"
   },
   {
     "token_id": 32,
@@ -266,10 +266,10 @@
   {
     "token_id": 34,
     "minter": "0x42e5a4ab3731fb1d5106e3d5c532c94617eeeadd",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.0093,
+    "recipient": "0xa33f60375931ca2dc38596a26e66e26526dcc4c9",
+    "tx_hash": "0xaa8b9a09288e329f1a78e3599af5b9106da9bac81f53e037b55ac2db7cc6c6a1"
   },
   {
     "token_id": 35,
@@ -338,10 +338,10 @@
   {
     "token_id": 43,
     "minter": "0xf8cf866eef515484e3c2e7338661f91fca9a550b",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.142,
+    "recipient": "0x52653f7a14903be0d00cd3225fd3ace2295c3ebc",
+    "tx_hash": "0xc57d6486179ebad85888bbf361ae65863e5cb8798d07e4d6eeeeb9baf6e1a142"
   },
   {
     "token_id": 44,
@@ -370,10 +370,10 @@
   {
     "token_id": 47,
     "minter": "0x99c11d0e6e131cd110256f283aefd831841e302d",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1426,
+    "recipient": "0x05bb4195016630b7a9c1461c30439b5fe61a8350",
+    "tx_hash": "0xa4589719fc83900d42489d256d9225aa5c43e1a42e1e36b9e3c7c5d8a408cf3b"
   },
   {
     "token_id": 48,
@@ -482,10 +482,10 @@
   {
     "token_id": 61,
     "minter": "0xabbff35e351b3d3f40a84f8a09b19549bb063f10",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1485,
+    "recipient": "0x37c1ee49fed07529d83f324e41962d07fc3cd7a7",
+    "tx_hash": "0xd9407cfff8ea2418c0103988124937b2afd06307d58e9d5d99055a05db4ce574"
   },
   {
     "token_id": 62,
@@ -498,26 +498,26 @@
   {
     "token_id": 63,
     "minter": "0x00c8043ee648c8cc792adfa5aea19dd65fafbcea",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.127,
+    "recipient": "0xda11d239780f0b6e8007951f8e9ccdd79ce32fb9",
+    "tx_hash": "0x9bfd395df094df2c8bdde37362e557dbcadaff88bd7f66272fd6c9ff9667c2aa"
   },
   {
     "token_id": 64,
     "minter": "0x7aa8327ec570f39343ab744e198c7c497d496c46",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.165,
+    "recipient": "0x15574c115ea0e354fce767e34ad44c98e5fce913",
+    "tx_hash": "0xe18f6d9a2ff1ed2c40b8c3c2151c0452e2fb16bb17eb9e074edd9cfac8417223"
   },
   {
     "token_id": 65,
     "minter": "0xd0d9f1992c755d75b22db0d351257432970b6dc3",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1288,
+    "recipient": "0xf3b16aed23ae260aaa252fe911ddd21cea2064cd",
+    "tx_hash": "0x5a631046acf4bd3890f3bbdcfdc515de3263d4091ab16744b692ebe00b838884"
   },
   {
     "token_id": 66,
@@ -610,10 +610,10 @@
   {
     "token_id": 77,
     "minter": "0x97c87d4352a6058232ee94dd0258def30d6959b7",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1563,
+    "recipient": "0xadb040f4f27ea941bccac56b763f577da2ed0311",
+    "tx_hash": "0x160cae105eb561d575aa6b164024e4e520c795afa5c93d37c17a88c8e8ec9e6c"
   },
   {
     "token_id": 78,
@@ -626,10 +626,10 @@
   {
     "token_id": 79,
     "minter": "0x97c782920715286fd9a3a0fec7d8b2e62ea3d135",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1371,
+    "recipient": "0x9a8e646a2c545801444899c9ad598473c7571664",
+    "tx_hash": "0xf3a1d9e15b1fd3bf4b1775b1ab41f4508fd64789412333986dc7f9588ddbbc92"
   },
   {
     "token_id": 80,
@@ -762,10 +762,10 @@
   {
     "token_id": 96,
     "minter": "0x47085d983b7026f0a51a40d545fa71a988982eac",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1421,
+    "recipient": "0x899341dfacca7ec96f272a2191b75e4c8f1ee63b",
+    "tx_hash": "0xefb5d822e38ef88cb86b5283cbe26a359c4856be0c79047cfa0825fdef466da6"
   },
   {
     "token_id": 97,
@@ -794,10 +794,10 @@
   {
     "token_id": 100,
     "minter": "0x77dfac39546116c70d616460fd7bc38ff4c97ecc",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.135,
+    "recipient": "0xbd3c4965b55c00f55e9e35325e4346462156c6eb",
+    "tx_hash": "0x0a63a041f11b09c384a9f4dab72422a84c9c435620d4273d22c1dc7c65190976"
   },
   {
     "token_id": 101,
@@ -810,10 +810,10 @@
   {
     "token_id": 102,
     "minter": "0x079b5093efe2d7ee98bc0b3b7b0ca94a24c0f8e3",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1334,
+    "recipient": "0x0aaf12e967bf6a00c863735aab30031a9aaac429",
+    "tx_hash": "0x3ed981735a206cbe57073cfe51e9f44320084fc6f95b7c24f1327cd0ffc42038"
   },
   {
     "token_id": 103,
@@ -938,10 +938,10 @@
   {
     "token_id": 118,
     "minter": "0xc7aec323d12404f2c49d77344cfaab2b4d82614d",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.115,
+    "recipient": "0xc500df98d68ea96fda1d8982187af96bdd9e1801",
+    "tx_hash": "0xdfa0bdaef32209b60e5b49ed7000b58889854a0105c54a102960f45187a3f593"
   },
   {
     "token_id": 119,
@@ -970,10 +970,10 @@
   {
     "token_id": 122,
     "minter": "0x42c41a6c61da73359c70c78eb40cfb7b3d160e53",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1444,
+    "recipient": "0x3d33a26b58f1af320692a3b49b8d70bc79421d31",
+    "tx_hash": "0x36138a1e306a61d6631a7d74cccc25fd4090a0ffbb3a89c3abc27393eebfa590"
   },
   {
     "token_id": 123,
@@ -994,10 +994,10 @@
   {
     "token_id": 125,
     "minter": "0xbb9c71c4ebb0159bdd62971f9a81cac0f36cb6e8",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1526,
+    "recipient": "0x8e82132d1d34fba79a0953b934b5c5da30419de7",
+    "tx_hash": "0x0e53991481056c18ffb0b08f39b576dcd1f2503de107eb5e6892d4d63d05a921"
   },
   {
     "token_id": 126,
@@ -1098,10 +1098,10 @@
   {
     "token_id": 138,
     "minter": "0x80ba1f37fe1208d55125063a37e1cc01b62b52c3",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1394,
+    "recipient": "0xb5c197d14dea92a140a348be9e3a3748182c32d7",
+    "tx_hash": "0x028550975a62b1be291c23bde26ec7a7cec1f52d71b806bf29d5b93225be553c"
   },
   {
     "token_id": 139,
@@ -1146,10 +1146,10 @@
   {
     "token_id": 144,
     "minter": "0x44386d7f63977a4431b65e8bd06c62054a6e188e",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1463,
+    "recipient": "0x62dacca36b35c493c14802bdbfb731ac0afc253d",
+    "tx_hash": "0xd606eab9af1704256d17aeb4f14f2b49d2de36aa160b0c1bf11246416b83170c"
   },
   {
     "token_id": 145,
@@ -1162,18 +1162,18 @@
   {
     "token_id": 146,
     "minter": "0x78dab173a937806447c7f14a4889872df75983fe",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.15,
+    "recipient": "0xe5cb840fd8f158058972a14938fd49472bd40634",
+    "tx_hash": "0xa6c33af770726e74bf2624a283d8e2fd5ef286c633c63da078c8da36905084b8"
   },
   {
     "token_id": 147,
     "minter": "0x36d89738405a8325b7c560cab2dd1b88565effd3",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1517,
+    "recipient": "0x17352485a7b4533afec62da15d492579bb83776e",
+    "tx_hash": "0xc3ecabf10dc18352a7afcb2881495eae7d03ade1db6e2d54dc51293b356a07df"
   },
   {
     "token_id": 148,
@@ -1362,10 +1362,10 @@
   {
     "token_id": 171,
     "minter": "0x1710ccf58dad178309a9e4e13036ff41c7ba94e8",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1417,
+    "recipient": "0xf256c4c027ce81cd471200a862f11124010e0d1d",
+    "tx_hash": "0xcca189283edf01a6ff9da47c6735410555088c4198e968cf8a15a22061a94a88"
   },
   {
     "token_id": 172,
@@ -1418,10 +1418,10 @@
   {
     "token_id": 178,
     "minter": "0x38b671931757771dee3b33fd0dce6c3641eebd68",
-    "status": "Holding",
+    "status": "Transferred",
     "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "recipient": "0x047adf7e6f39590e486b21202e6495f1595138f2",
+    "tx_hash": "0x7e399874ffd8b98abb0857668c0a17e3764f93e8623b3aed2c32166d5e356c9b"
   },
   {
     "token_id": 179,
@@ -1514,10 +1514,10 @@
   {
     "token_id": 190,
     "minter": "0xc853d77a99833431d7ac6799ba0eb4c3f2606887",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.138,
+    "recipient": "0xc783a2839f18da05309d0a7914d1544238132079",
+    "tx_hash": "0x067e153878f537e978d74e91c10c7179355c82d9e6df9dee6980c8ec597f7b0c"
   },
   {
     "token_id": 191,
@@ -1714,10 +1714,10 @@
   {
     "token_id": 215,
     "minter": "0xac83249396cf5f5555047d469af11d3c1dc9f6d1",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1279,
+    "recipient": "0x28f29ea7c6cd76fbec5f80af25d40b05c1ef39a0",
+    "tx_hash": "0x91bdc47aa1bb1200df0fd1ef8934f62710a4bbb2ef47bd1f65aeb8a192a027dc"
   },
   {
     "token_id": 216,
@@ -1802,18 +1802,18 @@
   {
     "token_id": 226,
     "minter": "0x4621c6065f5fd295a4ef6ef6fd816e8b921d46d9",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1417,
+    "recipient": "0xce63db0982e68e0b11da627b6b8cf170557e6f91",
+    "tx_hash": "0xaafdf7974f61371303e9faf46c1e8b7cf5cf9ec85672aa067beb4fea3a81eced"
   },
   {
     "token_id": 227,
     "minter": "0xb4d64772218d36f97974e8bb6ef0d01b026c9a14",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1242,
+    "recipient": "0x98f278aa4c1f35c40197fca9a0a65225a3009246",
+    "tx_hash": "0xb52f73d9216a9774f6cc04dadea1d8fd5a2bd18a9ce905a41f02fb44d418afcc"
   },
   {
     "token_id": 228,
@@ -1874,10 +1874,10 @@
   {
     "token_id": 235,
     "minter": "0xa56188c6e70c57b225b1e8cdf722ed3a9d9f8c2f",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1352,
+    "recipient": "0x8f216df28218ee81a15a7d116a5bd60b209c0ccb",
+    "tx_hash": "0x42c41de9e90e6a101f285ac843774488585dc0079af0a9d4e5e0562898397f6d"
   },
   {
     "token_id": 236,
@@ -1914,10 +1914,10 @@
   {
     "token_id": 240,
     "minter": "0x28c0647db1ae7bec8108ed5ec20ed6e48b74c792",
-    "status": "Holding",
+    "status": "Transferred",
     "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "recipient": "0xdf0f202dcef758cc6a9630eb40743dea372978dc",
+    "tx_hash": "0xdd93e638297da4208748fde6f545330baa6893391e4603b220927e34c46c6e54"
   },
   {
     "token_id": 241,
@@ -1986,10 +1986,10 @@
   {
     "token_id": 249,
     "minter": "0x48cb54212c080bd5abfc2c9b0ac0147a1b10ba2e",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1297,
+    "recipient": "0x6391877f2084b86c55f85cc59e57219a97fd6add",
+    "tx_hash": "0x488f6a009f05eac62c75c40de9bd7b7d89101f532e8c37d7a12f003b55190295"
   },
   {
     "token_id": 250,
@@ -2082,10 +2082,10 @@
   {
     "token_id": 261,
     "minter": "0xabff4c4e28b4e996d65068eb730235b3a9be57c3",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1436,
+    "recipient": "0x1b4342343f0f4c31a620404c24cf5ed35042c8ee",
+    "tx_hash": "0x9d12fcc4208fa285dd2b6d558483f9f56e70d9c1040eec1e77626bd513b5af37"
   },
   {
     "token_id": 262,
@@ -2170,10 +2170,10 @@
   {
     "token_id": 272,
     "minter": "0xec5fbd3ff3dd7e2e38a22e3b19fc0d01a5023fac",
-    "status": "Holding",
+    "status": "Transferred",
     "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "recipient": "0xa56188c6e70c57b225b1e8cdf722ed3a9d9f8c2f",
+    "tx_hash": "0xd3a83f4ef5814f9ae163a72ab3f3df13a72072ffa02fb5e5405a8efd03ca46a6"
   },
   {
     "token_id": 273,
@@ -2226,10 +2226,10 @@
   {
     "token_id": 279,
     "minter": "0xc86aeb6e997333772fd8f31e32c33c6e679ba75c",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1378,
+    "recipient": "0x418f759cef607bbfd9604720c1d389eb2a9ca1d7",
+    "tx_hash": "0x533a67cc005e9483e4bcbbb2c2d383ec1aac2ee1345cc5435c10e9ad73081e4a"
   },
   {
     "token_id": 280,
@@ -2258,10 +2258,10 @@
   {
     "token_id": 283,
     "minter": "0x1b5ebaace21877999e9c8c9ae5cdebba2a981ce0",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.139,
+    "recipient": "0x2f64b9c5e4b24eef6c2003406302f0dd92ae9b56",
+    "tx_hash": "0x781a06993f1140e3b067a230fca52abc993c444fd6eff0a6e4d78106bac03526"
   },
   {
     "token_id": 284,
@@ -2282,10 +2282,10 @@
   {
     "token_id": 286,
     "minter": "0xb1e3df39f8f4d3b3b1811c10e9dfb265a135752e",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.13,
+    "recipient": "0x6391877f2084b86c55f85cc59e57219a97fd6add",
+    "tx_hash": "0x4220b18a2bdedb84f286b6d2da0d37b61566c49bbfe293da7bf09c077948505d"
   },
   {
     "token_id": 287,
@@ -2298,10 +2298,10 @@
   {
     "token_id": 288,
     "minter": "0x28e1c94a97c6b33f29254253047441c1400baf1a",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1481,
+    "recipient": "0x37c1ee49fed07529d83f324e41962d07fc3cd7a7",
+    "tx_hash": "0xd9407cfff8ea2418c0103988124937b2afd06307d58e9d5d99055a05db4ce574"
   },
   {
     "token_id": 289,
@@ -2418,10 +2418,10 @@
   {
     "token_id": 303,
     "minter": "0xd954581054e8e9879b5632c326a7ec10b3065d97",
-    "status": "Holding",
+    "status": "Transferred",
     "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "recipient": "0x51cdf51f77fbd2cfac34dac9e41725d76b8022f6",
+    "tx_hash": "0x2985d7c2776481b2da1eea047a9949f4a02b3088cdc5565bb9ee626e6cc19137"
   },
   {
     "token_id": 304,
@@ -2466,10 +2466,10 @@
   {
     "token_id": 309,
     "minter": "0xe20e2f413948355dbfcd660ac75743ec798673d2",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1471,
+    "recipient": "0x37c1ee49fed07529d83f324e41962d07fc3cd7a7",
+    "tx_hash": "0x070400c080712a77869d1bff9f772acf20181dcc01118be0ea303a279ac234d4"
   },
   {
     "token_id": 310,
@@ -2770,10 +2770,10 @@
   {
     "token_id": 347,
     "minter": "0x84c91bd5678c7e799865a4f1d8f2d94acd5133e5",
-    "status": "Holding",
+    "status": "Transferred",
     "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "recipient": "0xd5f6e4ccf9659bf33285dbab84046eda160d5f32",
+    "tx_hash": "0x529d0b39b0aa252130c2ae635e76cc431515985b723b4b36b8a5fad7563f1b8e"
   },
   {
     "token_id": 348,
@@ -2994,10 +2994,10 @@
   {
     "token_id": 375,
     "minter": "0xa14eb9db77a9261582d2ee1bc2679b4497e4390e",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1417,
+    "recipient": "0xca925b5ffca6d7ddb97bfdf4b3ee0abc48dc147f",
+    "tx_hash": "0x2a4156556a4433790e7aa4aa8036e9505a8a67f5a7131170858138471049e0e3"
   },
   {
     "token_id": 376,
@@ -3018,26 +3018,26 @@
   {
     "token_id": 378,
     "minter": "0x4cbab90e7f561c42656498b645a660e0a40c5023",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1417,
+    "recipient": "0x45f34e13c7ff4a1c80dc0af89341c1e4abc7bbb3",
+    "tx_hash": "0xe83fb6d8c25112889e2a1a5a8161b7faa3a6156df9aea3ccb2b0dac71b4ffb6c"
   },
   {
     "token_id": 379,
     "minter": "0x4176ffb28140dcbc2d0a54f7932aa0dc94139d79",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1436,
+    "recipient": "0x1b4342343f0f4c31a620404c24cf5ed35042c8ee",
+    "tx_hash": "0x9d12fcc4208fa285dd2b6d558483f9f56e70d9c1040eec1e77626bd513b5af37"
   },
   {
     "token_id": 380,
     "minter": "0xd5c38625d05b58c67baea227f29dfe23ebde7bce",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1269,
+    "recipient": "0x0b7200d0fa9bba8e7ed4f66813c0f6d1dab21ba7",
+    "tx_hash": "0xb7eacea012451ee41177350a589171b9fc16e385ea05d49527807b6f3c04c8e1"
   },
   {
     "token_id": 381,
@@ -3090,10 +3090,10 @@
   {
     "token_id": 387,
     "minter": "0x08affa58383bed4d64e864e9d0e3481a6142b915",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.149,
+    "recipient": "0xbd2895dc008c31ba7b2e9177ebec4e7b048acb86",
+    "tx_hash": "0x6c055d36c2ffda95fe45d66e7f5040febc009e68dce80760f49a2c980e4edf06"
   },
   {
     "token_id": 388,
@@ -3146,10 +3146,10 @@
   {
     "token_id": 394,
     "minter": "0x5cc0bef8064901f319807d21c811ba1184ee17d8",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1275,
+    "recipient": "0x7a7578a72c66223cb9ff8057a4e40a14f7bd3524",
+    "tx_hash": "0xfe29107e5ee4581dab85443be843a896db108be36813b83f20f0b19412b55a47"
   },
   {
     "token_id": 395,
@@ -3306,10 +3306,10 @@
   {
     "token_id": 414,
     "minter": "0x871c4bcc20880394a838193fda927c793f2c7244",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1371,
+    "recipient": "0x37c1ee49fed07529d83f324e41962d07fc3cd7a7",
+    "tx_hash": "0x7f02fcd49fcf2259716c3f2260d37b4efca8366b6fd7b8e500d687b7d40f108c"
   },
   {
     "token_id": 415,
@@ -3402,18 +3402,18 @@
   {
     "token_id": 426,
     "minter": "0xd9c3b3bea1445d4a098f7f98ca48b7057698694a",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1527,
+    "recipient": "0x860482c92bdf9d315051f27c4b0267f57371820f",
+    "tx_hash": "0x316a535ab67fa568cdc8ad1f04e39b922ef97bf8fb6443b863ff46624651a386"
   },
   {
     "token_id": 427,
     "minter": "0xdf1b6890586f65491fa6e856d2b3dfa24557a575",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.132,
+    "recipient": "0x6b61a9739d08c59e35073a1f4088996403dd8878",
+    "tx_hash": "0xfd604827c725f9aabb26fb32ca309be795b280b8e076fa601c10505855f436fd"
   },
   {
     "token_id": 428,
@@ -3426,10 +3426,10 @@
   {
     "token_id": 429,
     "minter": "0x1393c9c6bf4f48a4107e461b83078a3f3889f774",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1279,
+    "recipient": "0x0b9580c35db43c1df34096795c7434dca2069e9c",
+    "tx_hash": "0x8e3e5eeb6e82cf66bcc66119ad2fbd00d7e8f12c69c4841fce9f9b8ce7bb4229"
   },
   {
     "token_id": 430,
@@ -3490,18 +3490,18 @@
   {
     "token_id": 437,
     "minter": "0x6110aff05931c2fa82eed3a41d4bcfd65f2e2091",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1297,
+    "recipient": "0x624d4cf1dfb29064c16169c650bbd445faf07fb1",
+    "tx_hash": "0x87c108503411fedcb3ecc52f9cc575f2c2a9ee39e5bd2441ea586c4522b85bf2"
   },
   {
     "token_id": 438,
     "minter": "0x6a16814338195e77e3384f06f5995c93ca8dcceb",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1403,
+    "recipient": "0x6e0ce278337eb1bd19ab28733c2b8b531b06cab7",
+    "tx_hash": "0xbb63046db5e757b6f711b27ca179dcb3301eae1e382675f7ea81049527e8bce4"
   },
   {
     "token_id": 439,
@@ -3546,10 +3546,10 @@
   {
     "token_id": 444,
     "minter": "0x1b3d18a23ef33bd907a26361c9e0562b6490b266",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.133,
+    "recipient": "0x9b4c71dc5f864fdde2b30cfc938da62610940355",
+    "tx_hash": "0xb5e074c9bd57d9fd30250fe432ca896fdbcad86304d2ec5f3aa4bf4d3a8e94ac"
   },
   {
     "token_id": 445,
@@ -3578,10 +3578,10 @@
   {
     "token_id": 448,
     "minter": "0xc3d494f40d6febd9bde47ef70ecdf2018e8c9cf0",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1426,
+    "recipient": "0xe2c4569265f702579f11849c1d261ebe12566291",
+    "tx_hash": "0xdb5d3687905fcee71af50d0e624592d0e95bb235ae84715f8708b7b0fc07dda1"
   },
   {
     "token_id": 449,
@@ -3602,10 +3602,10 @@
   {
     "token_id": 451,
     "minter": "0xccbe363a36030ce7d8f3af8eda088bc217bed230",
-    "status": "Holding",
+    "status": "Transferred",
     "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "recipient": "0xd39e17194c2852bec3a5c710269a6af7a76adf35",
+    "tx_hash": "0x3b951157a072e56e09524b4899d692a02494f878d305b8f7cd23046fd34779ac"
   },
   {
     "token_id": 452,
@@ -3778,10 +3778,10 @@
   {
     "token_id": 473,
     "minter": "0x822cfaccef0dc0983a05c65d96691fecd11098db",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1538,
+    "recipient": "0x9ab17bdaa2ab4a70aedd11a2a2641a14d5b23ddb",
+    "tx_hash": "0xf921d158065082085a43637647c6af04cda33574de733433ec79bdd770b81bf9"
   },
   {
     "token_id": 474,
@@ -3802,10 +3802,10 @@
   {
     "token_id": 476,
     "minter": "0x0b31b809cc5d331bd2bc67c907be665806e19760",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1343,
+    "recipient": "0xdabafb82df1b76b1552620465c414c6fdf75bebd",
+    "tx_hash": "0x7eaf8afc2fb0333a6c53e341a5f4d1543b9959de20b5ea940270eda73b61d6bf"
   },
   {
     "token_id": 477,
@@ -3994,10 +3994,10 @@
   {
     "token_id": 500,
     "minter": "0x8b2b57fba4aa9fba1a8b0a40e381d42e67637fa8",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1489,
+    "recipient": "0x39786c76037037fa6ad759780e501b65fc8b5b66",
+    "tx_hash": "0x8c2afeccdd0ae384613264e6c27a6f2361af47897829149c9aee77c0224df424"
   },
   {
     "token_id": 501,
@@ -4146,18 +4146,18 @@
   {
     "token_id": 519,
     "minter": "0x2c2d43cdfdc1cd3afe6a32c7988f25f899685bb8",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.141,
+    "recipient": "0xe66d6932e848599204f8d59dc177b97685aa42d5",
+    "tx_hash": "0xeb6e63f6f19629e0599f1e352a98bbbe47c95731f140b98b3e25f3984617b114"
   },
   {
     "token_id": 520,
     "minter": "0xd58a03f340ae8ba128c8137817572ccbe5475f75",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1132,
+    "recipient": "0xcb8c781ce4e7649a4d3cb63e0cd76f7f73e31311",
+    "tx_hash": "0x56a8d9b60a07bfe1223844c15bf489f34090669ee4d6a27bb423137aeafa8c23"
   },
   {
     "token_id": 521,
@@ -4202,10 +4202,10 @@
   {
     "token_id": 526,
     "minter": "0x080e40de156b2ace853671c2d1384f9c0d06b763",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1306,
+    "recipient": "0x930402fd244e7323f60edc41de5c44356383aa02",
+    "tx_hash": "0xe889ad9115eb7b098b3519b8355d47aa8f292406a01d9be71d93c297cea5ec56"
   },
   {
     "token_id": 527,
@@ -4298,10 +4298,10 @@
   {
     "token_id": 538,
     "minter": "0x77c9d0a8f390abb2a344c948f488f90edf538d8a",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1408,
+    "recipient": "0x4025b34a70688e11ce2f789697206b78bd96ef94",
+    "tx_hash": "0x71c7dc6c5d079ef030bfc715f9a62163f7c349a6328c614c02ad038d08ee05b2"
   },
   {
     "token_id": 539,
@@ -4314,10 +4314,10 @@
   {
     "token_id": 540,
     "minter": "0x372ced7af27e31828db5ad1d1b09417c14430fb2",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1286,
+    "recipient": "0xb7d032cc77919e17078a172ba98af27925a4a03d",
+    "tx_hash": "0x2b5835945103c4c2e9fa552339616b1cc5f1fae9f6b3d1579d4ff657c9732b52"
   },
   {
     "token_id": 541,
@@ -4466,10 +4466,10 @@
   {
     "token_id": 559,
     "minter": "0xfb14806be7255a99ee6674ccce0ed5ece127e3c0",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1288,
+    "recipient": "0x3ba5be29f37b98c201e1ff8ab6ce4dd3aba915b8",
+    "tx_hash": "0x81e548f6b5c52f57406fd8b7d2063c5dd37eff10660b4da52d6b74e0f4d40a20"
   },
   {
     "token_id": 560,
@@ -4698,10 +4698,10 @@
   {
     "token_id": 588,
     "minter": "0x029e13c1dcde8972361c9552ced69b97596e0e86",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1526,
+    "recipient": "0x9db8ff3ea8b9f773e1bd19b61029d4593a456064",
+    "tx_hash": "0xb1bbc52c4fe4a21c4752567a9ab7be0d6ecbecde9516044208adcc2667e109d4"
   },
   {
     "token_id": 589,
@@ -4722,10 +4722,10 @@
   {
     "token_id": 591,
     "minter": "0x8c6fdb5926e31994c9372f5907508b36aca500b6",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1196,
+    "recipient": "0x8f5fbdc4a08d48cacc468b30b55705529944bc8c",
+    "tx_hash": "0x6af7a7fd294f7e57318a6e69ef1edd7dbcd6be98b407eb04e922b5ab31bacc23"
   },
   {
     "token_id": 592,
@@ -4794,18 +4794,18 @@
   {
     "token_id": 600,
     "minter": "0xff3e924241d46a27d2fbe77869f89748867baccb",
-    "status": "Holding",
+    "status": "Transferred",
     "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "recipient": "0xd39e17194c2852bec3a5c710269a6af7a76adf35",
+    "tx_hash": "0x2334f2fcaea9a9b378f403fd326f9b5f0d92503e5b98b80c7d75dfd7ebe2a12d"
   },
   {
     "token_id": 601,
     "minter": "0x49c39d7f0ad70acf89b9b20f9e5134fca4672a39",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1564,
+    "recipient": "0xe8119887a348d80a979fc5b0ebcc08ad0c5a9f80",
+    "tx_hash": "0x6ed772b3165a6e044de090eff9670ca6dad7f92bce9b6efebdb63d5b3750274b"
   },
   {
     "token_id": 602,
@@ -4866,10 +4866,10 @@
   {
     "token_id": 609,
     "minter": "0x2381837ebca926425642e49733c3e61657f1911f",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1463,
+    "recipient": "0xe0fa7bf6827221a5275505d163a2989f6f0dfcfb",
+    "tx_hash": "0x7f65219e2f8c402efc87c798a4744fefcf01ce4478dfb739e811c3a256d1e22b"
   },
   {
     "token_id": 610,
@@ -4882,10 +4882,10 @@
   {
     "token_id": 611,
     "minter": "0x27740553d786e9f23f02309b235af4bbc5cfc872",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.127,
+    "recipient": "0x0b7200d0fa9bba8e7ed4f66813c0f6d1dab21ba7",
+    "tx_hash": "0x6bdb71d80bd902b9f8a6ecff95a71a136292cc78528b8a0e78f7e54def61aeb2"
   },
   {
     "token_id": 612,
@@ -4906,10 +4906,10 @@
   {
     "token_id": 614,
     "minter": "0xdaa5074a406a66344b25b6298f5f55dea6d2cac2",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1394,
+    "recipient": "0x03980571932f91a3ecca7e884445d6c160a0be04",
+    "tx_hash": "0x49401751623a52851b3ec9acde686aed965b4d0ef7173633d98a378dcefcca67"
   },
   {
     "token_id": 615,
@@ -5034,10 +5034,10 @@
   {
     "token_id": 630,
     "minter": "0x951258c3e166ca7f5cefac5bcd099778d5767885",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1472,
+    "recipient": "0xce9ffbc7bdafa36010a2f8f8abd24a28c11a0b70",
+    "tx_hash": "0x2ba82af5a0c28a59d5416838408cfbedfb3e4f026e1af154105102edeafbede0"
   },
   {
     "token_id": 631,
@@ -5154,10 +5154,10 @@
   {
     "token_id": 645,
     "minter": "0x41814130eafb9924e449b339bd51dce41cddd4a1",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1472,
+    "recipient": "0xbd2895dc008c31ba7b2e9177ebec4e7b048acb86",
+    "tx_hash": "0x10c5668d6c488c4b4ba1b5bae61274e9c4986de155ad54a1645420c474c633bb"
   },
   {
     "token_id": 646,
@@ -5282,10 +5282,10 @@
   {
     "token_id": 661,
     "minter": "0x144cb151b0545fd7877d099fbda698e3c97f927e",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1306,
+    "recipient": "0x67b4ab6aca056262159c560623186bfd334e34af",
+    "tx_hash": "0xf272062926550ddd0232bb182c2f1a39330c313f6d088f7199c5f4b41b90e372"
   },
   {
     "token_id": 662,
@@ -5338,10 +5338,10 @@
   {
     "token_id": 668,
     "minter": "0x27ec37f465e1755036cc854aa96dd304f82213e6",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1421,
+    "recipient": "0x95a115d5cb1c132936544da2d9b5f973a65888c8",
+    "tx_hash": "0xf06a2cb2a651605c223e4ab89e0ddbeb39b51ee8a1916accd5f7120b572cf6d5"
   },
   {
     "token_id": 669,
@@ -5402,26 +5402,26 @@
   {
     "token_id": 676,
     "minter": "0x10883fe498057d42a48f32d547525c286a982c19",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1484,
+    "recipient": "0x2d93050668023943a544881bb611537d5ccc74fc",
+    "tx_hash": "0x8d4de2b4db25631c05986ba6fbb04a12402e81692a064b3341dac1602852b39a"
   },
   {
     "token_id": 677,
     "minter": "0xae64f4461fa472155c1b0a459fec707842d7b652",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.131,
+    "recipient": "0x4efccc82f3fa662eb1949b122abd470df73b6d91",
+    "tx_hash": "0xfa0e3c5e97c5cac9760f5f947b778285a73ef3f9fad9596c7294c22ee585c33b"
   },
   {
     "token_id": 678,
     "minter": "0xed9a08b85e320cf997fc95b362f8e5f3215f20be",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1277,
+    "recipient": "0x46f7cf1d931f6ff1fbad3622bbad9321d6849551",
+    "tx_hash": "0x2f0ed35c3fe31ec2fb4fa218093eaf843d299f18f26810cb27ecc7def7a17b59"
   },
   {
     "token_id": 679,
@@ -5498,10 +5498,10 @@
   {
     "token_id": 688,
     "minter": "0x017a251cfb4b5b4e91d19b13aed2a1d25d547a20",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1378,
+    "recipient": "0xbd8f09b3e170c9b5759054509367816cb50ecae0",
+    "tx_hash": "0x7ad18c2b6482b06e98e18717b31b1dca70ec5f47a627e4a7f5b920de1191ff24"
   },
   {
     "token_id": 689,
@@ -5594,10 +5594,10 @@
   {
     "token_id": 700,
     "minter": "0x4ade4e108d7487cb69502c71efef20dc917ccb9b",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.15,
+    "recipient": "0xe131b08d2a5831acdfdfc49de0695eba1f76ce09",
+    "tx_hash": "0xade1f3a575b7e62716f8027055506b85adad98a2aa3b84faa2940f4b0f75f9b7"
   },
   {
     "token_id": 701,
@@ -5610,10 +5610,10 @@
   {
     "token_id": 702,
     "minter": "0xe33aa354fc16dc1d9f7d40eb54ed8374029f105b",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.138,
+    "recipient": "0x25f8e49fecc47aa0a40124838c51a2c8c48a0cbe",
+    "tx_hash": "0x5dd119727ea033794e2d336e532fccfc174a61c430fbbab09684cf09d240fdd2"
   },
   {
     "token_id": 703,
@@ -5658,10 +5658,10 @@
   {
     "token_id": 708,
     "minter": "0x39b57885ba98287bb19bc24d153d25c980ff0e4f",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1205,
+    "recipient": "0x3ba5be29f37b98c201e1ff8ab6ce4dd3aba915b8",
+    "tx_hash": "0xb1302ea732a2c4ed1171275c6246ef8e8dc26bcf9d697b6a6d3f107827ada2b4"
   },
   {
     "token_id": 709,
@@ -5738,10 +5738,10 @@
   {
     "token_id": 718,
     "minter": "0xc27f03fc37509a4aa1681d7277dbd9d683057c8b",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.138,
+    "recipient": "0x1626e31c754a00edd6b5e91569728ee6742152ef",
+    "tx_hash": "0x99619b2a71a11e9ce7717f1016e989d8e39351ce2c7931b7c12332695e5b7b8f"
   },
   {
     "token_id": 719,
@@ -5762,10 +5762,10 @@
   {
     "token_id": 721,
     "minter": "0xd1576e0e1479405332b382b0a5686d9079cb6214",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1277,
+    "recipient": "0x1cb827446bc108db9bf6e01fd44fcba5b2b5e5a9",
+    "tx_hash": "0x2856e22903d5acdf8faa06084405748cedc93edfe503105ba7d288d189886470"
   },
   {
     "token_id": 722,
@@ -5794,10 +5794,10 @@
   {
     "token_id": 725,
     "minter": "0x038eba107f1edf2c66ed0abbc434f1f8c787767d",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1416,
+    "recipient": "0xb5c197d14dea92a140a348be9e3a3748182c32d7",
+    "tx_hash": "0x028550975a62b1be291c23bde26ec7a7cec1f52d71b806bf29d5b93225be553c"
   },
   {
     "token_id": 726,
@@ -5834,10 +5834,10 @@
   {
     "token_id": 730,
     "minter": "0xb1ba94f869a35027960b32f19dae7ac466c8f300",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1426,
+    "recipient": "0xca925b5ffca6d7ddb97bfdf4b3ee0abc48dc147f",
+    "tx_hash": "0x2a4156556a4433790e7aa4aa8036e9505a8a67f5a7131170858138471049e0e3"
   },
   {
     "token_id": 731,
@@ -5866,26 +5866,26 @@
   {
     "token_id": 734,
     "minter": "0x7c4fbff8abc72ea22c0ec4dfefd27a96bbe47833",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1463,
+    "recipient": "0x62dacca36b35c493c14802bdbfb731ac0afc253d",
+    "tx_hash": "0x00b805af4928f3914c9f91b64e356f5afd5589e78a49668d9204707a91259d66"
   },
   {
     "token_id": 735,
     "minter": "0x65a2015c9a9f1188f5700783c47dcc3bbf8b99dd",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1564,
+    "recipient": "0x4a4b283c750e230268f92b57f7ec345e84584ace",
+    "tx_hash": "0xa55ee0067db4b66d6c770128a022048ec67f467a5ffd2364e6ff84e6aa8bc99a"
   },
   {
     "token_id": 736,
     "minter": "0xbad6a1891f45ba83b1800938a0971c4b0f6b32f2",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1196,
+    "recipient": "0x737d3e324d1580943979b8db71dea756bef2c70a",
+    "tx_hash": "0x8c2f7c2149a5a56a3b39e1d871d44ed8543fbb95b259a3b06f45817c2838cb73"
   },
   {
     "token_id": 737,
@@ -5986,10 +5986,10 @@
   {
     "token_id": 749,
     "minter": "0x7e30d39d92e8c2c7b925ee44e53ff172ab30d64c",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1471,
+    "recipient": "0x37c1ee49fed07529d83f324e41962d07fc3cd7a7",
+    "tx_hash": "0x070400c080712a77869d1bff9f772acf20181dcc01118be0ea303a279ac234d4"
   },
   {
     "token_id": 750,
@@ -6034,10 +6034,10 @@
   {
     "token_id": 755,
     "minter": "0xfdb6bc6673a252d7cb1b0a84cf138d07bc3d5ffa",
-    "status": "Holding",
+    "status": "Transferred",
     "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "recipient": "0x4d46129d5ec5f7df83d0a4b3f611203d313794ae",
+    "tx_hash": "0x7aa5525f384a35340fd1335e6f729e427f944bc3e4cc06178b72e1c1ef2ef504"
   },
   {
     "token_id": 756,
@@ -6250,10 +6250,10 @@
   {
     "token_id": 782,
     "minter": "0xa2de487efd86cd591bf4f304ee319187a0447f00",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1526,
+    "recipient": "0x8e82132d1d34fba79a0953b934b5c5da30419de7",
+    "tx_hash": "0x6987bd4f4312657a1c9393f2ae579ae8effb95764ab0712b5345aca94a004b77"
   },
   {
     "token_id": 783,
@@ -6282,10 +6282,10 @@
   {
     "token_id": 786,
     "minter": "0xb1fc40c9dac5538907040e3b3e0065c7b2e6c770",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1403,
+    "recipient": "0x0011f92de175b593658b0d55d862d6f5d0166ae6",
+    "tx_hash": "0x2188927a9254806a185737904a94ebe02ab7e270dbae1255263d90696812e18d"
   },
   {
     "token_id": 787,
@@ -6394,10 +6394,10 @@
   {
     "token_id": 800,
     "minter": "0x8baedb33976d3867766e4a3030adb393ccca8058",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1426,
+    "recipient": "0x1636f7607441cb48c82011564b1a90c1fc2c5d82",
+    "tx_hash": "0x88e76dc87e205950b916f089437e78f90b0e593932f718d5d91861c9bc05bc1f"
   },
   {
     "token_id": 801,
@@ -6418,10 +6418,10 @@
   {
     "token_id": 803,
     "minter": "0x012a170905e0df9f94ddac644bce36695f7ca329",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1375,
+    "recipient": "0xe1bb4180bd1355ce0d8a305f6ae4fb3c471ad6e0",
+    "tx_hash": "0x7ad61875e8e7d2402e4392929ba3fa0b4de5f3dcfa7e9aa641fbbc20cb6d53a2"
   },
   {
     "token_id": 804,
@@ -6522,10 +6522,10 @@
   {
     "token_id": 816,
     "minter": "0x6994aa3c83455705a514798fc29aff6d94d06da2",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1444,
+    "recipient": "0x42086fc0230e1d5d171d1313acc9a5292bceb046",
+    "tx_hash": "0xd85dcf2897c12fd161598cd9fc82ae3799977ee07490053e16044673a75e90ff"
   },
   {
     "token_id": 817,
@@ -6546,10 +6546,10 @@
   {
     "token_id": 819,
     "minter": "0x34bc2045512d06d0a1b9a39856eca91fd1b0d7ff",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.138,
+    "recipient": "0x486d5dcc7c6066e352b135e8b826b213a6025814",
+    "tx_hash": "0x241951806d0f0d49c8dac1f05342dd1d8652beb0cb9d0c2cff47a3da36936264"
   },
   {
     "token_id": 820,
@@ -6730,10 +6730,10 @@
   {
     "token_id": 842,
     "minter": "0xd567419b20d575e5817179a25a565544ab52d0c3",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.132,
+    "recipient": "0xbdc68b2738a417bf45924048f6a7fcbdadbdde13",
+    "tx_hash": "0xb26c04304495175a510f470dd79dbb75f9dd9091b5b0f12113bb6d3baf28f81a"
   },
   {
     "token_id": 843,
@@ -6842,10 +6842,10 @@
   {
     "token_id": 856,
     "minter": "0x3e4bc5f26711fc6af2dd5ff0d234973a185075a3",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1472,
+    "recipient": "0x1b4342343f0f4c31a620404c24cf5ed35042c8ee",
+    "tx_hash": "0xa07fd25619ecaf2168f8daad7fe221f750126fc8643239c91d90c3e183c9891b"
   },
   {
     "token_id": 857,
@@ -6970,10 +6970,10 @@
   {
     "token_id": 872,
     "minter": "0xdd13c7c4e84011b22230cd284cd0c48cbeb0b217",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.148,
+    "recipient": "0xf51040e6104a86ec66b0ece14e09de7d24a1ec2a",
+    "tx_hash": "0xdbfa7218dc0f77330d3fb42d75e6954fe97e9e3337802b9d55e15a91bc4f3ea5"
   },
   {
     "token_id": 873,
@@ -7074,10 +7074,10 @@
   {
     "token_id": 885,
     "minter": "0x29773d7df768c0de50397b9c1e7f71e4ee528cd8",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1362,
+    "recipient": "0x228e9d04eaec83c37a4aa38f2d2123b2456ca363",
+    "tx_hash": "0x41747ac3880ebdc96b1214eaca77a4287ea4463d81641fcb520984c3a24a6d2e"
   },
   {
     "token_id": 886,
@@ -7178,10 +7178,10 @@
   {
     "token_id": 898,
     "minter": "0xd1f51ae2b927cda5b1bb5d9383c75ec6fbde6739",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1526,
+    "recipient": "0x25f8e49fecc47aa0a40124838c51a2c8c48a0cbe",
+    "tx_hash": "0xa604e3cf0775a8b4d301bb459d639fd960a28e1b8c901989b17046b9a2044201"
   },
   {
     "token_id": 899,
@@ -7194,10 +7194,10 @@
   {
     "token_id": 900,
     "minter": "0xffc44844828d260f93c05903e115e94f09dff278",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1371,
+    "recipient": "0xe43320906e97eab9337ddcc5c62d190d40abbf20",
+    "tx_hash": "0x0c50d0d94ec736ca205066bb6298360e2bc2e5bbac77c871839a4312b2a536a1"
   },
   {
     "token_id": 901,
@@ -7210,10 +7210,10 @@
   {
     "token_id": 902,
     "minter": "0xd4790f365a0359d1a1dbaf37cbffdbe6972ccdfd",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1374,
+    "recipient": "0x44dab84e20fc0fdc9df59fbe71cf30d02d68e2be",
+    "tx_hash": "0x038ae26efd24f98eba63f0c449ee88c40842c28b752f848199b43143d6e3f835"
   },
   {
     "token_id": 903,
@@ -7226,10 +7226,10 @@
   {
     "token_id": 904,
     "minter": "0x3b5e1513d390c139ff8df34b4b8174fc1cac9968",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1379,
+    "recipient": "0x37c1ee49fed07529d83f324e41962d07fc3cd7a7",
+    "tx_hash": "0x7f02fcd49fcf2259716c3f2260d37b4efca8366b6fd7b8e500d687b7d40f108c"
   },
   {
     "token_id": 905,
@@ -7250,10 +7250,10 @@
   {
     "token_id": 907,
     "minter": "0x3de25541938e42917bcfd63571315b089a727992",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1562,
+    "recipient": "0xe43320906e97eab9337ddcc5c62d190d40abbf20",
+    "tx_hash": "0x5520a78a366f497029d516c2d7d52f80120c24ace66b120b30c72bebc81a1014"
   },
   {
     "token_id": 908,
@@ -7370,10 +7370,10 @@
   {
     "token_id": 922,
     "minter": "0x7384c5f13f2e6fb5a1e4dae54bf8923cec435cd2",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1472,
+    "recipient": "0x8872ce1ea7a61e309bceee2740153d30ac7ad787",
+    "tx_hash": "0x292a7fde0a05cc6bdad4e2954786d761cf7305bffa58d7b9af956d51454e7baf"
   },
   {
     "token_id": 923,
@@ -7394,10 +7394,10 @@
   {
     "token_id": 925,
     "minter": "0x485b673b18fcf5e033ce4fa29815be27a53e7742",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1251,
+    "recipient": "0xfc061f651f2d703220421233e1874d6400786c6f",
+    "tx_hash": "0xd1a190fbc28efd35ea80a93f7d6adbe6bfd9f5c41f1399d2a4e6adc686287dc3"
   },
   {
     "token_id": 926,
@@ -7426,10 +7426,10 @@
   {
     "token_id": 929,
     "minter": "0x16203152655a08d65e4770d7877f9d339d2e17f5",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1403,
+    "recipient": "0x999d5b642de9118aaf8379ae93443fe1c88f9a92",
+    "tx_hash": "0x00036334789ba2ac96da258b55c5566700477b9dfbc2a2d3f1e3788df5b65629"
   },
   {
     "token_id": 930,
@@ -7450,10 +7450,10 @@
   {
     "token_id": 932,
     "minter": "0xc732a31e758a168dc9889ee50141bb2d47a44c60",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.138,
+    "recipient": "0x8eface48c5af9583faddaa98c5b34599a3052539",
+    "tx_hash": "0x7eff0d287f9139dc4cb068b5e5dd516d6d3f30bae932099230b3772ef8ae3e2a"
   },
   {
     "token_id": 933,
@@ -7514,10 +7514,10 @@
   {
     "token_id": 940,
     "minter": "0x71fc67e9e1b8e01de53e0bbd56dc2255334ead41",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1279,
+    "recipient": "0x634b32004ae505e791180c229cee85d753b75be1",
+    "tx_hash": "0xd9786f76e3013ac3ec466eb3e414b264964cb4bd20316339d28c734ae4654209"
   },
   {
     "token_id": 941,
@@ -7538,10 +7538,10 @@
   {
     "token_id": 943,
     "minter": "0x619a4633452e62a01a9d744d26caaac671b579b3",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1351,
+    "recipient": "0xe66d6932e848599204f8d59dc177b97685aa42d5",
+    "tx_hash": "0x649bd042ca5861b725fe8e50967666877ee86706c5a3c64878badd445ac9d052"
   },
   {
     "token_id": 944,
@@ -7610,10 +7610,10 @@
   {
     "token_id": 952,
     "minter": "0xe6363f6dac6576540ba02872dce956957a199aa7",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1472,
+    "recipient": "0x47b27f983b32d179997505d31c3320bbd244256c",
+    "tx_hash": "0xb54c033a305eabd3761e7d22dcd3517a43ef240ed40720429f99b5cbdd6f9224"
   },
   {
     "token_id": 953,
@@ -7674,10 +7674,10 @@
   {
     "token_id": 960,
     "minter": "0x2cbf3ec03c6197374154d32bb517fc1a551e6e68",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1481,
+    "recipient": "0xd79eae43fef94e4024b428f55cfd58121da45d1f",
+    "tx_hash": "0xebf2edb9fc2efd06c51584a248b265e02ca87c6c97caafd2454ea8df7e0af5d3"
   },
   {
     "token_id": 961,
@@ -7722,18 +7722,18 @@
   {
     "token_id": 966,
     "minter": "0xe1c649f30b0495b5d065324a4af4f8fb45b2ba77",
-    "status": "Holding",
+    "status": "Transferred",
     "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "recipient": "0x30decae8308b512a0b600eb26300a0a7df1843ff",
+    "tx_hash": "0xd75be2c93ade84f2855c26946c861d9005895ed978a0ecb6161c50bf78e94f8c"
   },
   {
     "token_id": 967,
     "minter": "0x2b5679bd9f21c520fcd24d3d9037bf4aa6daec69",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.138,
+    "recipient": "0xa4dbcae7784281a327cc43e6a03fcabd18fdd50d",
+    "tx_hash": "0x4a5a2f0d2ee6194987b4b15fcd46f2c947b66de9a61dea020eee800b2e15ba81"
   },
   {
     "token_id": 968,
@@ -7754,10 +7754,10 @@
   {
     "token_id": 970,
     "minter": "0xd191e54213bea5c6045f9810b816ffc2f5f82360",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1421,
+    "recipient": "0x1821df9e522ebf3bd07722661a7f3e15ea5c7be5",
+    "tx_hash": "0x6d594bd29c90269350bca43b986901e42c1ca2e981c68cb1f7e405ae41162d52"
   },
   {
     "token_id": 971,
@@ -7786,10 +7786,10 @@
   {
     "token_id": 974,
     "minter": "0xa76c8012fed62fd3f9d4cbf0c8e0e3893e33790a",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1417,
+    "recipient": "0xca925b5ffca6d7ddb97bfdf4b3ee0abc48dc147f",
+    "tx_hash": "0x2a4156556a4433790e7aa4aa8036e9505a8a67f5a7131170858138471049e0e3"
   },
   {
     "token_id": 975,
@@ -7818,10 +7818,10 @@
   {
     "token_id": 978,
     "minter": "0xcf1fa655ec2db37557cea50c016f2a87249b8583",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1472,
+    "recipient": "0x37c1ee49fed07529d83f324e41962d07fc3cd7a7",
+    "tx_hash": "0xd9407cfff8ea2418c0103988124937b2afd06307d58e9d5d99055a05db4ce574"
   },
   {
     "token_id": 979,
@@ -7834,18 +7834,18 @@
   {
     "token_id": 980,
     "minter": "0x320b5ceb70bac26d31d387b5741974e2a654a551",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1463,
+    "recipient": "0x1ced7380014bc4185d6263a21013c1fd22641519",
+    "tx_hash": "0xc18066a28d38975f28b68d3225ca089411e47672ed237d68dfe53134c78c2f5b"
   },
   {
     "token_id": 981,
     "minter": "0x09188b3ef85faf8ac5ff7a7afbac3d37d4bef43b",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1518,
+    "recipient": "0x860482c92bdf9d315051f27c4b0267f57371820f",
+    "tx_hash": "0x316a535ab67fa568cdc8ad1f04e39b922ef97bf8fb6443b863ff46624651a386"
   },
   {
     "token_id": 982,
@@ -7898,18 +7898,18 @@
   {
     "token_id": 988,
     "minter": "0x4bb9b22b838c362cbc468756bd69c0e38116d858",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1419,
+    "recipient": "0x9723cc792c32dca2744690f99103d095ea149e82",
+    "tx_hash": "0x36006dc7f6c6bd67fa1aa58cfc1dc3bb39a0cac156ff87a53d8c1a4ba8b9b049"
   },
   {
     "token_id": 989,
     "minter": "0xa6e1330f63e4946525fe096bbb5b172701f33fc2",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1536,
+    "recipient": "0x5b25ade8dba55fe6d3d7f7719018504899b729e2",
+    "tx_hash": "0x1561ce84a549bf7ff066694f498c3918b681e679136c53cb1cfe19b3fe6e2b4e"
   },
   {
     "token_id": 990,
@@ -7922,10 +7922,10 @@
   {
     "token_id": 991,
     "minter": "0xd9cc03b859942da54cf39036ca3f88ed0c4116a3",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1563,
+    "recipient": "0x47b27f983b32d179997505d31c3320bbd244256c",
+    "tx_hash": "0xdcc0577c16ee2f248d498ed464ee03386d1bc541155ee342a29417c7077f8fc2"
   },
   {
     "token_id": 992,
@@ -7938,10 +7938,10 @@
   {
     "token_id": 993,
     "minter": "0xc7409e7b2bf6a099597faed179803fa2b003ff45",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.138,
+    "recipient": "0x2d567f3a558a20393ce7cae69a05e6a7dd12ac0c",
+    "tx_hash": "0x0f3b75091b453dbf9bdc8abdf09ef2bbe85dffbdabfe7c3578a5a3dbbd99e2fa"
   },
   {
     "token_id": 994,
@@ -8026,10 +8026,10 @@
   {
     "token_id": 1004,
     "minter": "0xc6f86b392c918011707db8f10a11cce5a6ce52de",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1408,
+    "recipient": "0x4025b34a70688e11ce2f789697206b78bd96ef94",
+    "tx_hash": "0x71c7dc6c5d079ef030bfc715f9a62163f7c349a6328c614c02ad038d08ee05b2"
   },
   {
     "token_id": 1005,
@@ -8042,10 +8042,10 @@
   {
     "token_id": 1006,
     "minter": "0x29dc2d095815c5a06fe937f10c85663afc0a392e",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1526,
+    "recipient": "0x2e335576f779e360742217b1d2b4b98b26d2b19a",
+    "tx_hash": "0x671b078b4fbed881bd7be5f884645274e7540f4d2e3783b48bbb00b255628c13"
   },
   {
     "token_id": 1007,
@@ -8194,10 +8194,10 @@
   {
     "token_id": 1025,
     "minter": "0xf6bb114ab71c1922bdc8784021ca19ae84c5fd3a",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1554,
+    "recipient": "0xbd2895dc008c31ba7b2e9177ebec4e7b048acb86",
+    "tx_hash": "0xbaf5e34240998ab72b62eeb177a4f43e2a5e700c5cc21bbfde506d461fe5dc27"
   },
   {
     "token_id": 1026,
@@ -8210,10 +8210,10 @@
   {
     "token_id": 1027,
     "minter": "0xccb928ce40ba12c65a47daec2be4152d34f53080",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1242,
+    "recipient": "0x4df85d5d7574ec0f6c25e70936169d73c0087ca3",
+    "tx_hash": "0xa023ad152191e6078aaeca1272fa5b58d24c4b9628c6cf248ec174ec1b63db5b"
   },
   {
     "token_id": 1028,
@@ -8226,10 +8226,10 @@
   {
     "token_id": 1029,
     "minter": "0xf25926302c5b05757a68cb6519650458bff9373f",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1518,
+    "recipient": "0x860482c92bdf9d315051f27c4b0267f57371820f",
+    "tx_hash": "0x316a535ab67fa568cdc8ad1f04e39b922ef97bf8fb6443b863ff46624651a386"
   },
   {
     "token_id": 1030,
@@ -8258,10 +8258,10 @@
   {
     "token_id": 1033,
     "minter": "0x15cb47cd516431141ac9bd0fbec71555dc5a7b16",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1463,
+    "recipient": "0x1ac005e581133718a34de1fcd3c30f083bef8c50",
+    "tx_hash": "0xd234716e5d8f50f3d4743f07240677c6dfaa3462f559eb248e06d7d01c75db09"
   },
   {
     "token_id": 1034,
@@ -8282,10 +8282,10 @@
   {
     "token_id": 1036,
     "minter": "0x77d5ce6a4c888c0eeefd44575af795bb166e2f31",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1403,
+    "recipient": "0x3d7c23cf4a93f64c749f03c2f86d1cfb5d1734c7",
+    "tx_hash": "0xbd57ab5d6d9e5b2ae480dd1ba54ec93f7785d18c13ccbdff880823b9d4e3f16e"
   },
   {
     "token_id": 1037,
@@ -8298,10 +8298,10 @@
   {
     "token_id": 1038,
     "minter": "0x2022003bb12f78fd3032138ebbf47071beaf1770",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1275,
+    "recipient": "0x60418e09a218235d0b445b8fca7e0fa126cc6f93",
+    "tx_hash": "0xc8480703804a8b2afb176f69bd7469e986383ac073a21162fe46a845eca74198"
   },
   {
     "token_id": 1039,
@@ -8322,10 +8322,10 @@
   {
     "token_id": 1041,
     "minter": "0x349afe2eace9590c230fd3803bbcfe81715daf65",
-    "status": "Holding",
+    "status": "Transferred",
     "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "recipient": "0x7daada4017ca32ae21a96210622584445e12667b",
+    "tx_hash": "0x3392ce5245d6a192ad8df98973b318fb99c394773676b03d3b78d2feb500fed1"
   },
   {
     "token_id": 1042,
@@ -8458,10 +8458,10 @@
   {
     "token_id": 1058,
     "minter": "0x51ffbaf9254500a39d9bc41337391b3d16357026",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1334,
+    "recipient": "0xd1598c76c78acc698a5241578ea0b21afb29ad44",
+    "tx_hash": "0xda5019e9b8586ff244974814dab2777114631ecbd4efc9e88f77fccf4a322d79"
   },
   {
     "token_id": 1059,
@@ -8482,18 +8482,18 @@
   {
     "token_id": 1061,
     "minter": "0xb153f2eb7a9f5f734bc6e3c28b8fa9d08d4a6a7c",
-    "status": "Holding",
+    "status": "Transferred",
     "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "recipient": "0x0d95d8c4497b0ef2c460d929d57425a474339879",
+    "tx_hash": "0x25d7c5b3f1a7bbb5c95ffaa2bc6c19de24cde00435fac746320d28647c4d20c7"
   },
   {
     "token_id": 1062,
     "minter": "0xe4c51279f0adde1067d083640364316e5e513ece",
-    "status": "Holding",
+    "status": "Transferred",
     "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "recipient": "0x564a2d42a8f02d83a8235292abb8a769d263c722",
+    "tx_hash": "0x6b1fbca7091490f337972ed62ea0851218f130805e11e5f43ac328b36b31e526"
   },
   {
     "token_id": 1063,
@@ -8530,10 +8530,10 @@
   {
     "token_id": 1067,
     "minter": "0xfadcb995821063fef924cbcf12d585c7f7194531",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1242,
+    "recipient": "0xf3463130910603726b2d6202e81b365b3870d53f",
+    "tx_hash": "0xe6ca5139a27bf5a5d33ddc4e7ae4ee9ab11527a0fe1e44c5194d7b5182c37ae8"
   },
   {
     "token_id": 1068,
@@ -8562,10 +8562,10 @@
   {
     "token_id": 1071,
     "minter": "0xbc67b2c58a06bfef48fdfb8ed38075cdb733b8d6",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.15,
+    "recipient": "0xbd2895dc008c31ba7b2e9177ebec4e7b048acb86",
+    "tx_hash": "0x26607fac243205f35b11942df4e2255fe5a7a40ff49b05e6cde20621c18ef39d"
   },
   {
     "token_id": 1072,
@@ -8666,18 +8666,18 @@
   {
     "token_id": 1084,
     "minter": "0x0640390cfd85a14c6b84d3021b07a39902a4f65f",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.14,
+    "recipient": "0x09846c9ed5d569b3c2429b03997ca9f7bc76393a",
+    "tx_hash": "0xbe858fbe896edb7fbdc3082c41915e1caa6147bf831b30bb4545d0cd0e660a60"
   },
   {
     "token_id": 1085,
     "minter": "0x1020d9b2bd3c4c54496396647391a14c2dd812e4",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.147,
+    "recipient": "0x37c1ee49fed07529d83f324e41962d07fc3cd7a7",
+    "tx_hash": "0x070400c080712a77869d1bff9f772acf20181dcc01118be0ea303a279ac234d4"
   },
   {
     "token_id": 1086,
@@ -8698,10 +8698,10 @@
   {
     "token_id": 1088,
     "minter": "0x1313b0783988d54a531dfc53d8f6653efac4e30f",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.1564,
+    "recipient": "0x5722387e2950a8e8b8674d8c5de18d60bbb59f63",
+    "tx_hash": "0xd7877679871a8cc18e77537d5a7abad1bead93bb84b390b4b6807ac3cfb2f2fc"
   },
   {
     "token_id": 1089,
@@ -8762,10 +8762,10 @@
   {
     "token_id": 1096,
     "minter": "0x2c0a5e87ebefa1734e49b9f08d82176ae6914b54",
-    "status": "Holding",
-    "price": 0,
-    "recipient": null,
-    "tx_hash": null
+    "status": "Sold",
+    "price": 0.142,
+    "recipient": "0xf256c4c027ce81cd471200a862f11124010e0d1d",
+    "tx_hash": "0xcca189283edf01a6ff9da47c6735410555088c4198e968cf8a15a22061a94a88"
   },
   {
     "token_id": 1097,
